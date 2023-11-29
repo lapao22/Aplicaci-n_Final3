@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicación", "Aplicación.csproj", "{6BB022F4-FC40-4103-9737-2FFB9689D724}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AplicaciónPao", "C:\Users\ramir\source\repos\AplicaciónPao\AplicaciónPao.vdproj", "{1B0EF7E8-62CD-4FBE-9F46-51A827A47B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB022F4-FC40-4103-9737-2FFB9689D724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB022F4-FC40-4103-9737-2FFB9689D724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB022F4-FC40-4103-9737-2FFB9689D724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB022F4-FC40-4103-9737-2FFB9689D724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0EF7E8-62CD-4FBE-9F46-51A827A47B61}.Debug|Any CPU.ActiveCfg = Debug
+		{1B0EF7E8-62CD-4FBE-9F46-51A827A47B61}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FACA050D-4BE9-4733-AB55-4292BE355B59}
+	EndGlobalSection
+EndGlobal
